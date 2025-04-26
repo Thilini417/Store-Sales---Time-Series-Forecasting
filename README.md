@@ -51,7 +51,7 @@ Additional Evaluation Metrics
 Beyond RMSLE, we considered following evaluation metrics which are RMSE, MSE, and R2.
 Following table shows the comparison of values.
 
-6. Alternative Solutions
+Alternative Solutions
 Here I Used the XGBoost model is based on gradient boosting. Normally this is known for accuracy, speed and ability to handle large dataset.Random Forest model also can be get as an alternative. But it’s much slow than other algorithms.
 As an alternative approach could involve Catboost model which is a gradient boosting algorithm. Normally this model will use when dataset contains many categorical data.Prophet which is from Facebook also can use as an alternative model which is specially design
 for the time series forecasting for business applications. An alternative approach could involve deep learning techniques involved like Long Short term Memory (LSTM). It is better when a large dataset involved. These models excel at capturing
